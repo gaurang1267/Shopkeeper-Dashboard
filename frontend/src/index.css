@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+#root {
+    min-height: 100vh;
+    background-color: #f0f4f8;
+}
+
+.Toastify__toast {
+    text-transform: capitalize;
+}
